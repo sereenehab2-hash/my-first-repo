@@ -1,0 +1,5 @@
+My notes about Repo:
+- Repo is a place to save my project files
+- I can see all versions of my files
+- I can work with my team in same project
+- GitHub keeps my code safe
